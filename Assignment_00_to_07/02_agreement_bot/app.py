@@ -1,4 +1,3 @@
-
 # Asking user for their favorite animal
 animal = input("What's your favorite animal? ")
 
