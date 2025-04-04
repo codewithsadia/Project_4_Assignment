@@ -3,9 +3,10 @@ JOKE: str = "Here is a joke for you! Sophia is heading out to the grocery store.
 SORRY: str = "Sorry I only tell jokes."
 
 def main():
-  
-    user_input = user_input.strip().lower()
+    # Prompt the user for input
+    user_input = input(PROMPT).strip().lower()
     
+    # Check if the input contains "joke"
     if "joke" in user_input:
         print(JOKE)
     else:
