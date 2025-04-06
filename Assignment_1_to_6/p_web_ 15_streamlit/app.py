@@ -1,6 +1,6 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
+import streamlit as st # type: ignore
+import pandas as pd # type: ignore
+import numpy as np # type: ignore
 
 # Set page config
 st.set_page_config(page_title="Simple Data Dashboard", layout="wide")
