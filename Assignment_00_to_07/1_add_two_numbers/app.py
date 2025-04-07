@@ -20,11 +20,4 @@ def main():
 # This provided line is required at the end of
 # Python file to call the main() function.
 if __name__ == '__main__':
-    main()     
-    '''
-    output is
-    This program adds two numbers.
-Enter first number:    20
-Enter second number:      10
-The total is 30.
-'''
+    main()
