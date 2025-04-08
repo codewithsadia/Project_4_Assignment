@@ -75,4 +75,4 @@ if st.button("Calculate BMI"):
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ using Streamlit") 
+st.markdown("Made with ❤️Sadia Imran using Streamlit") 
